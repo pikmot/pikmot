@@ -1,8 +1,8 @@
 # Hi, I'm Tom
 
-Junior Software Consultant at \_nology | Computer Science Graduate from the University of Sydney
+Junior Software Consultant at \_nology & Computer Science Graduate from the University of Sydney
 
-I have a background in AI and data — I've worked as a Data Annotator training AI/ML models at Outlier, TELUS Digital, and Robotics Masters, evaluating model responses and labelling datasets for accuracy. Now I'm building full-stack applications with React, TypeScript, Java, and Spring Boot.
+I have a background in AI and data. I've worked as a Data Annotator training AI/ML models at Outlier, TELUS Digital, and Robotics Masters, evaluating model responses and labelling datasets for accuracy. Now I'm building full-stack applications with React, TypeScript, Java, and Spring Boot.
 
 ## Tech Stack
 
@@ -20,10 +20,10 @@ I have a background in AI and data — I've worked as a Data Annotator training 
 
 ## Projects
 
-- [Todo App](https://github.com/pikmot/todoApp) — Full-stack task manager (React + Spring Boot)
-- [Tic Tac Toe](https://github.com/pikmot/tictactoe) — TypeScript game
-- [Google Books API](https://github.com/pikmot/google-books-api) — Book search with API integration
-- [Pokemon Cards](https://github.com/pikmot/pokemon-card-API-Project) — API-driven card carousel
+- [Todo App](https://github.com/pikmot/todoApp) : Full-stack task manager (React + Spring Boot)
+- [Tic Tac Toe](https://github.com/pikmot/tictactoe) : TypeScript game
+- [Google Books API](https://github.com/pikmot/google-books-api) : Book search with API integration
+- [Pokemon Cards](https://github.com/pikmot/pokemon-card-API-Project) : API-driven card carousel
 
 ## Contact
 
